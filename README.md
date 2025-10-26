@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💼 I’m currently working at [Aptifolio](https://aptifolio.com/).
+- 💼 I’m currently working at [Aptifolio](https://aptifolio.com/)
   
 <!--
 **felicityblueish/felicityblueish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
