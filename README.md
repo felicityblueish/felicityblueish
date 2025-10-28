@@ -6,7 +6,7 @@
 
 
 - ⚡ Fun fact: I live art btw :)
-- [Contact](aptifolio@gmail.com) 
+- Contact: aptifolio@gmail.com
   
 <!--
 **felicityblueish/felicityblueish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
