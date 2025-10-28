@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-- 💼 I’m currently working at [Aptifolio](https://aptifolio.com/)
+- 💼 I’m currently working at Aptifolio. 
+- Aptifolio is a no-code portfolio website builder that allows you to move from concept to launch in minutes. 
+- Sounds good? Visit [Aptifolio. ](https://aptifolio.com/)  to launch your portfolio today. Its free and fast. 
+
+
+- ⚡ Fun fact: I live art btw :)
+- [Contact](aptifolio@gmail.com) 
   
 <!--
 **felicityblueish/felicityblueish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
