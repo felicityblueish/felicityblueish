@@ -5,7 +5,7 @@
 - Sounds good? Visit [Aptifolio. ](https://aptifolio.com/)  to launch your portfolio today. Its free and fast. 
 
 
-- ⚡ Fun fact: I live art btw :)
+- ⚡ Fun fact: I like art btw :)
 - Contact: aptifolio@gmail.com
   
 <!--
