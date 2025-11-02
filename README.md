@@ -4,13 +4,18 @@
 
 - Aptifolio is a portfolio website builder.
 - ⚡ Fun fact: I like art btw :)
+- Contact: aptifolio@gmail.com
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1300&color=00BFFF&vCenter=true&width=900&lines=🧩+Real+devs+don’t+skip+the+challenge+—+they+choose+smarter+ones.;Coding+portfolios+is+optional.+Being+ready+for+clients+isn’t.;🧠+Code+your+projects+🛠️⚡+Let+Aptifolio+build+your+portfolio+in+2+minutes.;❤+You’ve+proved+you+can+code.+Now+prove+you+can+prioritize.;❌+Coding+a+portfolio+✅Start+building+your+first+client+list;POV:+Your+portfolio+is+a+tool,+not+a+project.;Try+Aptifolio+—+built+for+devs.;Create.+Customize.+Share.)](https://aptifolio.com)
 --
 
-- Contact: aptifolio@gmail.com
+
   
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=felicityblueish&label=Profile%20views&color=0e75b6&style=flat" alt="felicityblueish" />
+</p>
 <!--
 **felicityblueish/felicityblueish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
