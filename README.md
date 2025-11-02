@@ -10,8 +10,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧩+Real+devs+don’t+skip+the+challenge+—+they+prioritize+smarter+ones.;Coding+portfolios+is+optional.+Being+ready+for+clients+isn’t.;🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Start+building+your+client+list.;🚀+Launch+your+portfolio+in+2+minutes.;Create.+Customize.+Share.)](https://aptifolio.com)
 
 
-*⚠We have noticed the issue with slow sign up we are working to resolve this immediately.*
-
 <!--
 **felicityblueish/felicityblueish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
