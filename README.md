@@ -8,7 +8,7 @@
 
 
 - Contact: aptifolio@gmail.com        
-- [**Feedback**](https://bit.ly/aptifolio-feedback)❤
+- [**Feedback**](https://forms.gle/S1V9qrFenwpgw7pB8)❤
 
 <br>
 
