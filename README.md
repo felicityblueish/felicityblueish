@@ -3,9 +3,14 @@
 <br>
 
 - 💼 I’m currently working at [Aptifolio](https://aptifolio.com/).
-- Aptifolio is a no-code portfolio website builder. Visit to [launch](https://aptifolio.com/) your portfolio in minutes not weeks.
+- Aptifolio is a no-code portfolio website builder for **Developers**.
+- Visit to [launch](https://aptifolio.com/) your portfolio in minutes not weeks.
+
+<br>
+  
 - ⚡ Fun fact: I like art btw :)
 
+<br>
 
 - Contact: aptifolio@gmail.com        
 - [**Feedback**](https://forms.gle/S1V9qrFenwpgw7pB8)❤
