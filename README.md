@@ -22,4 +22,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Start+building+job/client+winning+projects.;🚀+Launch+your+portfolio+in+2+minutes.;Create.+Customize.+Share.)](https://aptifolio.com)
 
 
-⚠ Please remember to edit your portfolio domain before publishing your portfolio.
+⚠ Please remember to edit your portfolio domain before publishing.
