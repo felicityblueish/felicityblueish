@@ -9,15 +9,7 @@
 - Contact: aptifolio@gmail.com
 
 
-<br>
-
-
-> [**Demo Portfolio**](https://demo.aptifolio.app)🧐
-> [**Feedback**](https://forms.gle/S1V9qrFenwpgw7pB8)❤
-> [Developer](https://github.com/ndunguloren96)🛠
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Start+building+job/client+winning+projects.;🚀+Launch+your+portfolio+in+2+minutes.;Create.+Customize.+Share.)](https://aptifolio.com)
 
 
+> [**Demo Portfolio**](https://demo.aptifolio.app)🧐 &nbsp; &nbsp; [**Feedback**](https://forms.gle/S1V9qrFenwpgw7pB8)❤ &nbsp; &nbsp; [Developer](https://github.com/ndunguloren96)🛠 
