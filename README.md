@@ -11,3 +11,8 @@
 
 
 > [**Demo Portfolio**](https://demo.aptifolio.app)🧐 &nbsp; &nbsp; [**Feedback**](https://forms.gle/S1V9qrFenwpgw7pB8)❤ &nbsp; &nbsp; [Developer](https://github.com/ndunguloren96)🛠 
+
+<!-- Profile Views Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=felicityblueish&label=Profile%20views&color=0e75b6&style=flat" alt="felicityblueish" />
+</p>
