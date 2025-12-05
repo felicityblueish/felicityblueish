@@ -12,3 +12,6 @@
   <a href="https://aptifolio.com/themes">🎨 Explore themes</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://aptifolio.com/#claim-domain">⚡ Claim your portfolio</a>
 </p>
+
+
+![Aptifolio Themes Screenshot](/aptifolio-themes-page.png)
