@@ -14,4 +14,4 @@
 </p>
 
 
-![Aptifolio Themes Screenshot](/aptifolio-themes-page.png)
+![Aptifolio Themes Screenshot](/aptifolio-themes.png)
