@@ -10,5 +10,5 @@
   <!-- Primary CTAs: Demo first (trusted verification), then Themes & Create Portfolio -->
   <a href="https://demo.aptifolio.app">🔍 Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://aptifolio.com/themes">🎨 Explore themes</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://aptifolio.com>⚡ Get Started</a>
+  <a href="https://aptifolio.com">⚡ Get Started</a>
 </p>
