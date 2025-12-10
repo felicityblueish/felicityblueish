@@ -29,9 +29,9 @@
 
 #### Suvery
 Which UI would you prefer Aptifolio to have?
-- [Current UI: https://aptifolio.com](https://aptifolio.com)
-- [Concept: https://aptifolio-concept.vercel.app/ ](https://aptifolio-concept.vercel.app/)
-- [Vote: https://linkto.run/p/JPYDEVDU](https://linkto.run/p/JPYDEVDU)
+- Current UI: https://aptifolio.com](https://aptifolio.com
+- Concept: https://aptifolio-concept.vercel.app
+- Vote/Feedback: https://bit.ly/feedback-aptifolio
 
 Don't be shy :)
 
