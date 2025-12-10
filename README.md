@@ -29,7 +29,7 @@
 
 #### Suvery
 Which UI would you prefer Aptifolio to have?
-- Current UI: https://aptifolio.com](https://aptifolio.com
+- Current UI: https://aptifolio.com
 - Concept: https://aptifolio-concept.vercel.app
 - Vote/Feedback: https://bit.ly/feedback-aptifolio
 
