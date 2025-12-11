@@ -28,12 +28,12 @@
 
 
 #### Survey
-Which UI would you prefer Aptifolio to have?
+Which UI do you prefer for Aptifolio?
 - Current UI: https://aptifolio.com
 - Concept: https://aptifolio-concept.vercel.app
 - Vote/Feedback: https://forms.gle/AUJ44QFHDvYc6FGw5
 
-Don't be shy
+Feel free share your thoughts — don’t be shy.
 
 
 
