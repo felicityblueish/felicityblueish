@@ -31,7 +31,7 @@
 Which UI would you prefer Aptifolio to have?
 - Current UI: https://aptifolio.com
 - Concept: https://aptifolio-concept.vercel.app
-- Vote/Feedback: https://bit.ly/feedback-aptifolio
+- Vote/Feedback: https://forms.gle/AUJ44QFHDvYc6FGw5
 
 Don't be shy :)
 
