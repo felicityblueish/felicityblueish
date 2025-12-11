@@ -33,7 +33,7 @@ Which UI would you prefer Aptifolio to have?
 - Concept: https://aptifolio-concept.vercel.app
 - Vote/Feedback: https://forms.gle/AUJ44QFHDvYc6FGw5
 
-Don't be shy :)
+Don't be shy
 
 
 
