@@ -33,7 +33,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 4.  **Career Impact:** Enhance your professional visibility. A live portfolio allows recruiters to validate your skills instantly.
 
-5.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`your-name.aptifolio.app`).
+5.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`yourname.aptifolio.app`).
 
 6.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
 
