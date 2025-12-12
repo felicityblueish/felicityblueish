@@ -21,13 +21,6 @@
 ## 
 
 
-### Others
-#### Monthly Highlights:
-
-- **Aiming to work on real-world projects in 2026?** Start by building a portfolio website and set clear goals to update it with completed projects—whether quarterly, monthly, or at your preferred pace. Build the foundation now while others wait for January to get started.
-
-<br>
-
 #### Why Choose Aptifolio?
 
 Aptifolio streamlines the process of building a personal brand, allowing you to focus on your code while we handle the presentation.
@@ -45,4 +38,9 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 6.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
 
 7.  **Unlimited Scalability:** Showcase your full career history. Upload unlimited projects and high-quality case studies without storage restrictions.
+
+
+#### Monthly Highlights:
+
+- **Aiming to work on real-world projects in 2026?** Start by building a portfolio website and set clear goals to update it with completed projects—whether quarterly, monthly, or at your preferred pace. Build the foundation now while others wait for January to get started.
 
