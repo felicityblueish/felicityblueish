@@ -23,7 +23,7 @@
 
 #### Why Choose Aptifolio?
 
-Aptifolio streamlines the process of building a personal brand, allowing you to focus on your code while we handle the presentation.
+Aptifolio streamlines the process of building a personal brand, allowing you to focus on your project while we handle the presentation.
 
 1.  **Automated Generation:** Leverage AI to instantly transform your resume, prompt, Linkedin profile or GitHub profile into a fully deployed website.
 
