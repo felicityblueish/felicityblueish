@@ -26,14 +26,23 @@
 
 - **Aiming to work on real-world projects in 2026?** Start by building a portfolio website and set clear goals to update it with completed projects—whether quarterly, monthly, or at your preferred pace. Build the foundation now while others wait for January to get started.
 
+<br>
 
-#### Survey
-Which UI do you prefer for Aptifolio?
-- Current UI: https://aptifolio.com
-- Concept: https://aptifolio-concept.vercel.app
-- Vote/Feedback: https://forms.gle/AUJ44QFHDvYc6FGw5
+#### Why Choose Aptifolio?
 
-Feel free share your thoughts — don’t be shy.
+Aptifolio streamlines the process of building a personal brand, allowing you to focus on your code while we handle the presentation.
 
+1.  **Automated Generation:** Leverage AI to instantly transform your resume, prompt, Linkedin profile or GitHub profile into a fully deployed website.
 
+2.  **Professional Themes:** Access 90+ high-quality designs, ranging from clean, minimalist layouts to interactive technical interfaces.
+
+3.  **Rapid Deployment:** Go from sign-up to a live, production-ready URL in under two minutes.
+
+4.  **Career Impact:** Enhance your professional visibility. A live portfolio allows recruiters to validate your skills instantly.
+
+5.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`your-name.aptifolio.app`).
+
+6.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
+
+7.  **Unlimited Scalability:** Showcase your full career history. Upload unlimited projects and high-quality case studies without storage restrictions.
 
