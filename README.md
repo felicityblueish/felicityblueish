@@ -28,13 +28,14 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 3.  **Rapid Deployment:** Go from sign-up to a live, production-ready URL in under two minutes.
 
-4.  **Career Impact:** Enhance your professional visibility. A live portfolio allows recruiters to validate your skills instantly.
+4.  **Accelerate Development:** Skip the time-consuming process of designing and coding a portfolio. Aptifolio lets you get started on what matters — building meaningful projects.
 
-5.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`yourname.aptifolio.app`).
+5.  **Career Impact:** Enhance your professional visibility. A live portfolio allows recruiters to validate your skills instantly.
 
-6.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
+6.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`yourname.aptifolio.app`).
 
-7.  **Unlimited Scalability:** Showcase your full career history. Upload unlimited projects and high-quality case studies without storage restrictions.
+7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
+
 
 
 #### Monthly Highlights:
