@@ -24,7 +24,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 1.  **Automated Generation:** Leverage AI to instantly transform your resume, LinkedIn, or GitHub profile into a fully deployed website.
 
-2.  **Professional Themes:** Access 90+ high-quality designs, ranging from clean, minimalist layouts to interactive technical interfaces.
+2.  **Professional Themes and Layouts:** Access 90+ high-quality designs, ranging from clean, minimalist layouts to interactive technical interfaces. 
 
 3.  **Rapid Deployment:** Go from sign-up to a live, production-ready URL in under two minutes.
 
