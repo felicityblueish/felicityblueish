@@ -15,7 +15,11 @@
 
 <br>
 
-## 
+##  
+
+#### Monthly Highlights(Jan 2026):
+
+- **Do you really want to spend 3 weekends fighting CSS?** Start 2026 with a completed asset, not a coding struggle. On January 15th, we introduce a $29.99 One-Time Lifetime Payment. No subscriptions, just results. The current launch offer is now coming to an end—create your portfolio today. $29 to save hours of responsive design headaches is the smartest trade you'll make this year.
 
 
 #### Why Choose Aptifolio?
@@ -35,10 +39,4 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 6.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`yourname.aptifolio.app`).
 
 7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
-
-
-
-#### Monthly Highlights:
-
-- **Aiming to work on real-world projects in 2026?** Start by building a portfolio website on [Aptifolio](https://aptifolio.com) and set clear goals to update it with completed projects—whether quarterly, monthly, or at your preferred pace. Build the foundation now while others wait for January to get started.
 
