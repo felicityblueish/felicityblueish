@@ -20,7 +20,6 @@
 #### Monthly Highlights(Jan 2026):
 
 - **Do you really want to spend 3 weekends fighting CSS?** Start 2026 with a completed asset, not a coding struggle. On January 15th, we introduce a $29.99 One-Time Lifetime Payment. No subscriptions, just results. The current launch offer is now coming to an end—create your portfolio today. $29 to save hours of responsive design headaches is the first smartest trade you'll make this year.
-- Less than 20 slots left for early adopters with published portfolios who will have a lifetime access to pro features they secure.
 
 <br>
 
@@ -48,7 +47,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 <hr>
 
-
+<!--
 <p align="center">
   <sub>
     🤖 GitHub following is autonomously managed by <strong>Felicity</strong><br>
@@ -56,4 +55,12 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
     <a href="https://aptifolio.com">Try Aptifolio</a>
   </sub>
 </p>
-
+-->
+<p align="center">
+  <sub> 
+    🤖 Managed by <strong>Felicity</strong> · ⏳ <strong>Jan Only Offer:</strong> 
+    <a href="https://aptifolio.com">Get Lifetime Access for $0. <strike>$29</strike></a>
+    <br>
+    Built with ❤️ by <a href="https://github.com/ndunguloren96">@loren</a> 
+  </sub>
+</p>
