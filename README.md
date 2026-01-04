@@ -44,3 +44,16 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
 
+<br>
+
+<hr>
+
+
+<p align="center">
+  <sub>
+    🤖 GitHub following is autonomously managed by <strong>Felicity</strong><br>
+    Built with ❤️ by <a href="https://github.com/ndunguloren96">@loren</a> · 
+    <a href="https://aptifolio.com">Try Aptifolio</a>
+  </sub>
+</p>
+
