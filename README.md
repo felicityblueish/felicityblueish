@@ -15,15 +15,19 @@
 
 <br>
 
-##  
+
 
 #### Monthly Highlights(Jan 2026):
 
-- **Do you really want to spend 3 weekends fighting CSS?** Start 2026 with a completed asset, not a coding struggle. On January 15th, we introduce a $29.99 One-Time Lifetime Payment. No subscriptions, just results. The current launch offer is now coming to an end—create your portfolio today. $29 to save hours of responsive design headaches is the first smartest trade you'll make this year.
+***Start 2026 with a completed portfolio, not a coding struggle.***
+
+Begin the year with a finished asset. Right now, early adopters get 100% off—create your portfolio website at [Aptifolio](https://aptifolio.com) before this offer expires.
+
+*Early February: Pro plan launches at $29.99 (one-time lifetime payment, no subscriptions).*
 
 <br>
 
-##  
+
 
 #### Why Choose Aptifolio?
 
