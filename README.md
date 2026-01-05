@@ -23,7 +23,7 @@
 
 Begin the year with a finished asset. Right now, early adopters get 100% off—create your portfolio website at [Aptifolio](https://aptifolio.com) before this offer expires.
 
-*Early February: Pro plan launches at $29.99 (one-time lifetime payment, no subscriptions).*
+*Early February: Pro plan launches at $29 (one-time lifetime payment, no subscriptions).*
 
 <br>
 
@@ -51,15 +51,6 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 <hr>
 
-<!--
-<p align="center">
-  <sub>
-    🤖 GitHub following is autonomously managed by <strong>Felicity</strong><br>
-    Built with ❤️ by <a href="https://github.com/ndunguloren96">@loren</a> · 
-    <a href="https://aptifolio.com">Try Aptifolio</a>
-  </sub>
-</p>
--->
 <p align="center">
   <sub> 
     🤖 Managed by <strong>Felicity</strong> · ⏳ <strong>Jan Only Offer:</strong> 
