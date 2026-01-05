@@ -23,7 +23,7 @@
 
 Begin the year with a finished asset. Right now, early adopters get 100% off—create your portfolio website at [Aptifolio](https://aptifolio.com) before this offer expires.
 
-*Early February: Pro plan launches at $29 (one-time lifetime payment, no subscriptions).*
+*From 15th Jan - Early February: Pro plan launches at $29 (one-time lifetime payment, no subscriptions).*
 
 <br>
 
