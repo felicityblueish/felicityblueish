@@ -19,7 +19,7 @@
 
 #### Monthly Highlights(Jan 2026):
 
-***Start 2026 with a completed portfolio, not a coding struggle(Or at least choose the right coding struggle = client/job wining projects).***
+***Start 2026 with a completed portfolio, not a coding struggle*** *(or at least the right one: client- and job-winning projects).*
 
 Begin the year with a finished asset. Right now, early adopters get 100% off—create your portfolio website at [Aptifolio](https://aptifolio.com) before this offer expires.
 
