@@ -53,9 +53,8 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 <p align="center">
   <sub> 
-    🤖 Managed by <strong>Felicity</strong> · ⏳ <strong>Jan Only Offer:</strong> 
-    <a href="https://aptifolio.com">Get Lifetime Access for $0. <strike>$29</strike></a>
+    🤖 Managed by <strong>Felicity</strong>
     <br>
-    Built with ❤️ by <a href="https://github.com/ndunguloren96">@loren</a> 
+    Built by <a href="https://github.com/ndunguloren96">@Loren Kamau</a> 
   </sub>
 </p>
