@@ -50,8 +50,6 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 <br>
 
 
-I came across this youtube video on key metrics of a great portfolio (Super insightful): [
-I reviewed 200+ portfolios... here's everything you need to know](https://youtu.be/4xqNp6IVXPM)
 <hr>
 
 <p align="center">
