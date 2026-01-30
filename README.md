@@ -16,7 +16,7 @@
 <br>
 
 
-#### Monthly Highlights (February):
+#### Monthly Highlights (February 💜):
 
 **Put a Ring on Your Career**: Move with structure and confidence by getting to the real work today: building real projects and accelerating your career.  [Launch](https://aptifolio.com) your portfolio website in minutes.
 
