@@ -16,18 +16,13 @@
 <br>
 
 
+#### Monthly Highlights (February):
 
-#### Monthly Highlights(Jan 2026):
+**Put a Ring on Your Career**: Move with structure and confidence by getting to the real work today: building real projects and accelerating your career.  [Launch](https://aptifolio.com) your portfolio website in minutes.
 
-***Start 2026 with a completed portfolio, not a coding struggle*** *(or at least the right one: client- and job-winning projects).*
-
-Begin the year with a finished asset. Right now, early adopters get 100% off—create your portfolio website at [Aptifolio](https://aptifolio.com) before this offer expires.
-
-*From 15th Jan - Early February: Pro plan launches at $29 (one-time lifetime payment, no subscriptions).*
+Want to build **boldly**? Get Pro plan at $29 (one-time lifetime payment, no subscriptions).
 
 <br>
-
-
 
 #### Why Choose Aptifolio?
 
