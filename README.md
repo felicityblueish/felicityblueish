@@ -15,7 +15,7 @@
 
 <p align="left">
   <sub>
-    We would like to hear from you. Talk to <strong>Loren (Founder)</strong> — <a href="mailto:loren@aptifolio.com">hello@aptifolio.com</a>
+    We would like to hear from you. Talk to <strong>Loren (Founder)</strong> — <a href="mailto:loren@aptifolio.com">loren@aptifolio.com</a>
   </sub>
 </p>
 
