@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I’m Felicity.</h1>
 
 <p align="left">
-  💼 I’m currently working at <a href="https://aptifolio.com/">Aptifolio</a> — a no-code portfolio website builder for <strong>developers</strong>.
+  💼 I’m currently working at Aptifolio — a no-code portfolio website builder for <strong>developers</strong>.
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Start+building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
@@ -10,7 +10,13 @@
   <!-- Primary CTAs: Demo first (trusted verification), then Themes & Create Portfolio -->
   <a href="https://demo.aptifolio.app">🔍 Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://aptifolio.com/themes">🎨 Explore themes</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://aptifolio.com">⚡ Get Started for Free</a>
+  <a href="https://aptifolio.com/#claim-domain">⚡ Get started for free</a>
+</p>
+
+<p align="left">
+  <sub>
+    We would like to hear from you. Talk to <strong>Loren (Founder)</strong> — <a href="mailto:hello@aptifolio.com">hello@aptifolio.com</a>
+  </sub>
 </p>
 
 <br>
@@ -18,9 +24,9 @@
 
 #### Monthly Highlights (February 💜):
 
-**Put a Ring on Your Career**: Move with structure and confidence by getting to the real work today: building real projects and accelerating your career.  [Launch](https://aptifolio.com) your portfolio website in minutes.
+**Put a Ring on Your Career**: Move with structure and confidence by getting to the real work today: building real projects and accelerating your career. **Launch your portfolio website in minutes →** [aptifolio.com](https://aptifolio.com)
 
-Want to build **boldly**? Get Pro plan at $29 (one-time lifetime payment, no subscriptions).
+Want to build **boldly**? Get the Pro plan → [Upgrade for $29](https://aptifolio.com/pricing) (one-time lifetime payment, no subscriptions).
 
 <br>
 
@@ -43,7 +49,6 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
 
 <br>
-
 
 <hr>
 
