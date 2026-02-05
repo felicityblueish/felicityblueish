@@ -36,7 +36,7 @@ Get **34% OFF** the Pro Lifetime plan (Now **$19** <s>$29</s>). No subscriptions
 
 Use code: `VALENTINE`
 
-[**Claim Deal →**](https://aptifolio.com/pricing) _(Expires Feb 15th @ 11:59 PM UTC)_
+[**Claim Deal →**](https://aptifolio.com/sign-up) _(Expires Feb 15th @ 11:59 PM UTC)_
 
 <br>
 
