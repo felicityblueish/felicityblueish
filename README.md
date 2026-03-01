@@ -21,8 +21,7 @@
 
 <br>
 
-
-#### Monthly Highlights (March):
+#### Monthly Highlights (March🌱):
 
 **March may be your month of**: 
 - Shipping, not tweaking.
@@ -33,6 +32,7 @@
 Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes →** [aptifolio.com](https://aptifolio.com)
 
 
+<br>
 
 #### Why Choose Aptifolio?
 
