@@ -22,9 +22,15 @@
 <br>
 
 
-#### Monthly Highlights (February):
+#### Monthly Highlights (March):
 
-**Put a Ring on Your Career**: Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes →** [aptifolio.com](https://aptifolio.com)
+**March may be your month of**: 
+- Shipping, not tweaking.
+- Letting your projects speak for you — not just your resume.
+- Being found by the recruiter who's hiring you right now.
+- Closing the gap between your skills and what the world can see.
+
+Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes →** [aptifolio.com](https://aptifolio.com)
 
 
 
