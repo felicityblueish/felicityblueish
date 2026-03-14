@@ -10,7 +10,7 @@
   <!-- Primary CTAs: Demo first (trusted verification), then Themes & Create Portfolio -->
   <a href="https://demo.aptifolio.app">🔍 Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://aptifolio.com/themes">🎨 Explore themes</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://aptifolio.com/#claim-domain">⚡ Get started: Build in minutes</a>
+  <a href="https://aptifolio.com/#claim-domain">⚡ Get started for free</a>
 </p>
 
 <p align="left">
@@ -29,7 +29,7 @@
 - Being found by the recruiter or co-founder — who's ready to work with you immediately.
 - Closing the gap between your skills and what the world can see.
 
-Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes for $29** (pay once, own forever) → [aptifolio.com](https://aptifolio.com)
+Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes →** [aptifolio.com](https://aptifolio.com)
 
 
 <br>
