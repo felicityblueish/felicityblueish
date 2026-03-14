@@ -29,7 +29,7 @@
 - Being found by the recruiter or co-founder — who's ready to work with you immediately.
 - Closing the gap between your skills and what the world can see.
 
-Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes →** [aptifolio.com](https://aptifolio.com)
+Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes for $29** (pay once, own forever) → [aptifolio.com](https://aptifolio.com)
 
 
 <br>
