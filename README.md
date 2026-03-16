@@ -54,6 +54,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 <br>
 
+Share your [feedback](https://aptifolio.com/#feedback) via link attached.
 <hr>
 
 <p align="center">
