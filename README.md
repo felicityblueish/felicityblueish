@@ -68,6 +68,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 <br>
 
+**Update:** We recently terminated our free plan to focus on providing high quality portfolio websites only to all our users.
 Share your [feedback](https://aptifolio.com/#feedback) via the link attached.
 <hr>
 
