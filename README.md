@@ -23,17 +23,6 @@
 </p>
 
 -->
-
-<br>
-
-**Early Adopter's Special:** Commit to your career for less.
-
-Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>) with 3-day trial then pay once, own forever.
-
-Use code: `EARLYADOPTER`
-
-[**Claim Deal →**](https://aptifolio.com/sign-up?redirect_url=/pricing) _(Expires March 31th @ 11:59 PM UTC)_
-
 <br>
 
 #### Monthly Highlights (March🌱):
@@ -45,6 +34,17 @@ Use code: `EARLYADOPTER`
 - Closing the gap between your skills and what the world can see.
 
 Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes** → [aptifolio.com](https://aptifolio.com)
+
+<br>
+
+**Early Adopter's Special:** Commit to your career for less.
+
+Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>) with 3-day trial then pay once, own forever.
+
+Use code: `EARLYADOPTER`
+
+[**Claim Deal →**](https://aptifolio.com/sign-up?redirect_url=/pricing) _(Expires March 31th @ 11:59 PM UTC)_
+
 
 <br>
 
