@@ -26,9 +26,9 @@
 
 <br>
 
-🚀 **Early Adopter's Special:** Commit to your career for less.
+**Early Adopter's Special:** Commit to your career for less.
 
-Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>). Pay once, own forever.
+Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>) with 3-day trial then pay once, own forever.
 
 Use code: `EARLYADOPTER`
 
@@ -67,8 +67,6 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
 
 <br>
-
-**Update:** We recently terminated our free plan to focus on providing high quality portfolio websites only to all our users moving forward.
 
 Share your [feedback](https://aptifolio.com/#feedback) via the link attached.
 
