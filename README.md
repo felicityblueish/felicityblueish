@@ -39,7 +39,7 @@ Move with structure and confidence by getting to the real work today: building u
 
 **Early Adopter's Special:** Commit to your career for less.
 
-Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>) with 3-day trial then pay once, own forever.
+Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>) with 3-day trial(starts onces you launch your portfolio).
 
 Use code: `EARLYADOPTER`
 
