@@ -69,6 +69,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 <br>
 
 Share your [feedback](https://aptifolio.com/#feedback) via the link attached.
+**Pro Tip**: Take your time to interact with the dashboard to unlock its full capabilities for a top-tier portfolio website.
 
 <hr>
 
