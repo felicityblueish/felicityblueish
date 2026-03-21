@@ -39,7 +39,7 @@ Move with structure and confidence by getting to the real work today: building u
 
 **Early Adopter's Special:** Commit to your career for less.
 
-Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>) with 3-day trial(starts onces you launch your portfolio).
+Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>). A 3-day free trial is available to try Aptifolio: Starts onces you publish your portfolio.
 
 Use code: `EARLYADOPTER`
 
@@ -70,7 +70,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 Share your [feedback](https://aptifolio.com/#feedback) via the link attached.
 
-**Pro Tip**: Take your time to interact with the dashboard to unlock its full capabilities for a top-tier and portfolio website.
+**Pro Tip**: Take your time to interact with the dashboard to unlock its full capabilities for a top-tier and unique portfolio website.
 
 <hr>
 
