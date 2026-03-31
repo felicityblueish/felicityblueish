@@ -37,14 +37,8 @@ Move with structure and confidence by getting to the real work today: building u
 
 <br>
 
-**Early Adopter's Special:** Commit to your career for less.
-
-Get **40% OFF** the Pro Lifetime plan (Now **$29** <s>$49</s>). A 3-day free trial is available to try Aptifolio: Starts onces you publish your portfolio.
-
-Use code: `EARLYADOPTER`
-
-[**Claim Deal →**](https://aptifolio.com/sign-up?redirect_url=/pricing) _(Expires March 31th @ 11:59 PM UTC)_
-
+**Commit to your career for less:** 
+Get the Pro Lifetime plan $49. A 3-day free trial is available to try Aptifolio.
 
 <br>
 
@@ -73,22 +67,6 @@ Share your [feedback](https://aptifolio.com/#feedback) via the link attached.
 **Pro Tip**: Take your time to interact with the dashboard to unlock its full capabilities for a top-tier and unique portfolio website.
 
 <br>
-<br>
-
-**Get Featured**: We are working to have reviews ie; _showcase feedback from real users using Aptifolio in the homepage_ in an effort to improve social proof. If you would like to be featured follow these steps to submit your request:
-1. Create the best portfolio you can using Aptifolio features within our 3-day free trial which provides full access all features.
-2. Then proceed to write and submit a great natural/genuine feedback via https://aptifolio.com/#feedback. Attach your created portfolio website link.
-3. Results: We will proceed to vet your submission and respond only to users who win. The best portfolio and feedback will be featured in our upcoming reviews section in the [homepage](https://aptifolio.com).
-4. **Benfits to those who win**:
-
-   **a.** Getting featured ensures increased traffic to your portfolio which will have all kinds of benefit to you as your career advances.
-
-   **b.** Those who win will get to keep their created portfolio and 100% giveaway from the $49 one time payment ie will get to keep their portfolio for free forever.
-
-**_Note:_** 
-- Those featured will have the right to at any point in future request removal without losing access to their free forevr giveaway.
-- Only your name eg John Doe, title eg Python Developer, feedback and your portfolio will be featured.
-- You must submit your request within the 3-day free trial period.
 
 <hr>
 
