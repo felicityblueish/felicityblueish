@@ -37,11 +37,6 @@ Move with structure and confidence by getting to the real work today: building u
 
 <br>
 
-**Commit to your career for less:** 
-Get the Pro Lifetime plan $49. A 3-day free trial is available to try Aptifolio.
-
-<br>
-
 #### Why Choose Aptifolio?
 
 Aptifolio streamlines the process of building a personal brand, allowing you to focus on coding projects while we handle the presentation.
