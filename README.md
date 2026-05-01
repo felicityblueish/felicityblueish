@@ -25,7 +25,7 @@
 -->
 <br>
 
-#### Monthly Highlights (May🌱):
+#### Monthly Highlights (May💪):
 
 **May, may be your month of**: 
 - Shipping, not tweaking.
