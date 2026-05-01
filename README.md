@@ -27,7 +27,7 @@
 
 #### Monthly Highlights (April🌱):
 
-**April may be your month of**: 
+**May, may be your month of**: 
 - Shipping, not tweaking.
 - Letting your projects speak for you — not just your resume.
 - Being found by the recruiter or co-founder — who's ready to work with you immediately.
