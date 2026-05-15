@@ -67,7 +67,7 @@ Share your [feedback](https://aptifolio.com/#feedback) via the link attached.
 
 <p align="center">
   <sub> 
-    🤖 Managed by <strong>Felicity</strong>
+    Managed by <strong>Felicity</strong>
     <br>
     Built by <a href="https://github.com/ndunguloren96">@Loren Kamau</a> 
   </sub>
