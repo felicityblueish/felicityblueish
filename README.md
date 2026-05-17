@@ -53,43 +53,26 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 <br>
 
 
-<br>
-
-
-<br>
-
 ---
 
-
-<div align="center">
-
-### <span style="font-size:1.2em; font-weight:bold;">A Founder’s Letter</span>
-
-<br>
+### A Letter from the Founder
 
 <details>
-  <summary><strong>Read Loren's Journey &rarr;</strong></summary>
+  <summary><strong>The Portfolio Anti-Pattern — Read Loren's Story &rarr;</strong></summary>
 
----
-
-
+<br>
 
 <blockquote>
 I remember back in 2023, after having a chance to explore programming, I finally made up my mind that I wanted to be a developer. After countless hours learning everything I could get my hands on, the first logical step—or so my research pointed out—was that I needed a portfolio website that stood out.
 
 To spare you the details, I spent the next few months crafting the perfect portfolio. It was only after wasting all those months that it struck me: my portfolio website was over-engineered and entirely useless without real projects to show on it. A simple truth became clear. I should have devoted those valuable hours to building projects worthy of a portfolio first.
 
-That realization is exactly why I built Aptifolio in 2025. I wanted to give developers a way to instantly check the portfolio box so they can immediately focus on writing actual code. Instead of wasting months engineering a personal site from scratch, Aptifolio provides an on-the-go foundation. You secure your professional presence on day one, and seamlessly update it as you build real projects and your career advances.
+That realization is exactly why I built Aptifolio in 2025. I wanted to give developers a way to instantly check the portfolio box so they can immediately focus on writing actual code. Instead of wasting months engineering a personal site from scratch, Aptifolio provides an on-the-go foundation. You secure your professional presence on day one, and seamlessly update it as you build real projects as your career advances.
 
 Today, Aptifolio solves this trap and much more in completely new ways.
-  
-
 </blockquote>
 
-
-<br>
-
-<p align="center">
+<p align="left">
   <code>— Loren Kamau, Founder of Aptifolio</code>
 </p>
 
@@ -103,6 +86,6 @@ Today, Aptifolio solves this trap and much more in completely new ways.
   <sub> 
     Managed by <strong>Felicity</strong>
     <br>
-    Built by <a href="https://github.com/ndunguloren96">@Loren Kamau</a> · <a href="https://aptifolio.com">Aptifolio.com</a>
+    Built by <a href="https://github.com/ndunguloren96">@Loren Kamau</a> · <a href="https://aptifolio.com">Aptifolio.com</a> 
   </sub>
 </p>
