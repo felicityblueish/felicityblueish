@@ -27,7 +27,7 @@
 
 <br>
 
-#### Why developers ❤️ Aptifolio?
+#### Why Developers Rely on Aptifolio?
 
 Aptifolio streamlines the process of building a personal brand, allowing you to focus on coding projects while we handle the presentation.
 
