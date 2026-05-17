@@ -1,12 +1,10 @@
-<h1 align="center">Hi there 👋, I’m Felicity.</h1>
+<h1 align="center">Hi there, I’m Felicity.</h1>
 
 <p align="left">
-  💼 I’m currently working at Aptifolio — a no-code portfolio website builder for <strong>developers</strong>.
+  💼 I am currently working at Aptifolio — a no-code portfolio website builder for <strong>developers</strong> who code.
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Start+building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
 
 <p align="left">
   <!-- Primary CTAs: Demo first (trusted verification), then Themes & Create Portfolio -->
@@ -15,25 +13,17 @@
   <a href="https://aptifolio.com/#claim-domain">Get started: Build in minutes</a>
 </p>
 
-<!--
-<p align="left">
-  <sub>
-    We would like to hear from you. Talk to <strong>Loren (Founder)</strong> — <a href="mailto:loren@aptifolio.com">loren@aptifolio.com</a>
-  </sub>
-</p>
-
--->
 <br>
 
 #### Monthly Highlights (May💪):
 
 **May, may be your month of**: 
 - Shipping, not tweaking.
-- Letting your projects speak for you — not just your resume.
+- Letting your projects speak for you.
 - Being found by the recruiter or co-founder — who's ready to work with you immediately.
 - Closing the gap between your skills and what the world can see.
 
-Move with structure and confidence by getting to the real work today: building useful projects and accelerating your career. **Launch your portfolio website in minutes** → [aptifolio.com](https://aptifolio.com)
+**Ready to launch?** → [aptifolio.com](https://aptifolio.com)
 
 <br>
 
@@ -54,16 +44,60 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 6.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`yourname.aptifolio.app`).
 
 7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
+8.  **Feedback Welcome:** [Share your feedback](https://aptifolio.com/#feedback)
+
+<blockquote>
+  <strong>Pro Tip:</strong> Interact with the dashboard to unlock its full capabilities.
+</blockquote>
 
 <br>
 
-Share your [feedback](https://aptifolio.com/#feedback) via the link attached.
-
-**Pro Tip**: Take your time to interact with the dashboard to unlock its full capabilities for a top-tier and unique portfolio website.
 
 <br>
 
-<hr>
+
+<br>
+
+---
+
+
+<div align="center">
+
+### <span style="font-size:1.2em; font-weight:bold;">A Founder’s Letter</span>
+
+<br>
+
+<details>
+  <summary><strong>Read Loren's Journey &rarr;</strong></summary>
+
+---
+
+
+
+<blockquote>
+I remember back in 2023, after having a chance to explore programming, I finally made up my mind that I wanted to be a developer. After countless hours learning everything I could get my hands on, the first logical step—or so my research pointed out—was that I needed a portfolio website that stood out.
+
+To spare you the details, I spent the next few months crafting the perfect portfolio. It was only after wasting all those months that it struck me: my portfolio website was over-engineered and entirely useless without real projects to show on it. A simple truth became clear. I should have devoted those valuable hours to building projects worthy of a portfolio first.
+
+That realization is exactly why I built Aptifolio in 2025. I wanted to give developers a way to instantly check the portfolio box so they can immediately focus on writing actual code. Instead of wasting months engineering a personal site from scratch, Aptifolio provides an on-the-go foundation. You secure your professional presence on day one, and seamlessly update it as you build real projects and your career advances.
+
+Today, Aptifolio solves this trap and much more in completely new ways.
+  
+
+</blockquote>
+
+
+<br>
+
+<p align="center">
+  <code>— Loren Kamau, Founder of Aptifolio</code>
+</p>
+
+</details>
+
+---
+
+<br>
 
 <p align="center">
   <sub> 
