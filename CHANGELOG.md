@@ -38,7 +38,7 @@ If you have successfully analyzed system behavior and require underlying engine 
   > ### 🛒 Automated Procurement
   > To instantly purchase and secure your access to the private engine branch, clear authentication via the secure checkout link:
   > 
-  > 🔗 **[Get Felicity Source Code](https://whop.com/joined/felicity-891f/git-hub-access-ohsr8EgGdZ55VR/app/)**
+  > 🔗 **[Get Felicity Source Code](https://whop.com/checkout/1glDje8bHJzUNotu6t-oWJF-tfpo-tLmr-G8ok9WgofoP6/)**
   > 
   > *Note: By completing the automated checkout process, you officially certify that your intended use is strictly for educational evaluation.*
 
