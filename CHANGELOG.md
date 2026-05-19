@@ -1,3 +1,9 @@
+# Changelog
+
+## Evaluation Manifest
+
+If you have successfully analyzed system behavior and require underlying engine access and acqusition, expand the verification guide below.
+
 **Felicity Source Code:**
 * Downloadable
 * Latest version
@@ -8,12 +14,12 @@
 * Detailed instruction menu
 
 <details>
-  <summary><strong>Contact Info, Disclaimer and Terms &rarr;</strong></summary>
+  <summary><strong>Disclaimer, Terms and Checkout &rarr;</strong></summary>
   <br>
 
   > ### ⚠️ IMPORTANT LEGAL DISCLAIMER & TERMS OF USE
   > 
-  > **BY CONTACTING THE SELLER OR PURCHASING/USING THIS SOFTWARE, YOU EXPLICITLY AGREE TO THE FOLLOWING TERMS:**
+  > **BY EXECUTING THE CHECKOUT PROCESS OR PURCHASING/USING THIS SOFTWARE, YOU EXPLICITLY AGREE TO THE FOLLOWING TERMS:**
   > 
   > **1. Educational Purpose Only**  
   > This software is provided exclusively for educational, learning, and academic research purposes. Any commercial use or monetization is strictly prohibited.
@@ -29,10 +35,11 @@
   > 
   > ---
   > 
-  > **Contact to Purchase:**  
-  > To purchase, email: **felicityblue@protonmail.com**  
-  > *Note: By sending an email request, you officially confirm that your intended use is strictly educational.*
+  > ### 🛒 Automated Procurement
+  > To instantly purchase and secure your access to the private engine branch, clear authentication via the secure checkout link:
+  > 
+  > 🔗 **[Get Felicity Source Code](https://whop.com/joined/felicity-891f/git-hub-access-ohsr8EgGdZ55VR/app/)**
+  > 
+  > *Note: By completing the automated checkout process, you officially certify that your intended use is strictly for educational evaluation.*
 
 </details>
-
-
