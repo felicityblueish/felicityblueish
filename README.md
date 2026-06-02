@@ -56,7 +56,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 <br>
 
 
-
+<!---
 ---
 
 ### A Letter from the Founder
@@ -85,6 +85,7 @@ Today, Aptifolio solves this trap and much more in completely new ways.
 ---
 
 <br>
+!-->
 
 <p align="center">
   <sub> 
