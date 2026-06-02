@@ -20,7 +20,7 @@
 **June can be your month of**: 
 - Shipping, not tweaking.
 - Letting your projects speak for you.
-- Being found by the recruiter or co-founder — who's ready to work with you immediately.
+- Being found by recruiters and co-founders ready to work with you immediately.
 - Closing the gap between your skills and what the world can see.
 
 **Ready to launch?** → [aptifolio.com](https://aptifolio.com)
@@ -44,7 +44,10 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 6.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`yourname.aptifolio.app`).
 
 7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
-8.  **Feedback Welcome:** [Share your feedback](https://aptifolio.com/#feedback)
+8.  **Blogging:** Write, publish, and share thoughtful blogs.
+9.  **Integrations:** Connect GitHub and Spotify to your portfolio.
+10.  **Feedback Welcome:** [Share your feedback](https://aptifolio.com/#feedback)
+
 
 <blockquote>
   <strong>Pro Tip:</strong> Interact with the dashboard to unlock its full capabilities.
@@ -66,9 +69,9 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 <blockquote>
 I remember back in 2023, after having a chance to explore programming, I finally made up my mind that I wanted to be a developer. After countless hours learning everything I could get my hands on, the first logical step—or so my research pointed out—was that I needed a portfolio website that stood out.
 
-To spare you the details, I spent the next few months crafting the perfect portfolio. It was only after wasting all those months that it struck me: my portfolio website was over-engineered and entirely useless without real projects to show on it. A simple truth became clear. I should have devoted those valuable hours to building projects worthy of a portfolio first.
+To spare you the details, I spent the next few months crafting the perfect portfolio. It was only after wasting all those months that it struck me: my portfolio website was over-engineered and entirely useless without real projects to show on it. A simple truth became clear: I should have devoted those valuable hours to building projects worthy of a portfolio.
 
-That realization is exactly why I built Aptifolio in 2025. I wanted to give developers a way to instantly check the portfolio box so they can immediately focus on writing actual code. Instead of wasting months engineering a personal site from scratch, Aptifolio provides an on-the-go foundation. You secure your professional presence on day one, and seamlessly update it as you build real projects as your career advances.
+That realization is why I built Aptifolio in 2025. I wanted to give developers a way to instantly check the portfolio box so they can immediately focus on writing actual code. Instead of wasting months engineering a personal site from scratch, Aptifolio provides a premium portfolio website in just 2 minutes. You secure your professional presence on day one, and seamlessly update it as you build real projects as your career advances.
 
 Today, Aptifolio solves this trap and much more in completely new ways.
 </blockquote>
