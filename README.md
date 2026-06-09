@@ -46,7 +46,8 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
 8.  **Blogging:** Write, publish, and share thoughtful blogs.
 9.  **Integrations:** Connect GitHub and Spotify to your portfolio.
-10.  **Feedback Welcome:** [Share your feedback](https://aptifolio.com/#feedback)
+10. **Feedback Welcome:** [Share your feedback](https://aptifolio.com/#feedback)
+11. **Zero Lock-in:** Export your portfolio as a production ready codebase, in case you ever need to.
 
 
 <blockquote>
