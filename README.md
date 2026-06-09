@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I’m Felicity.</h1>
+<h1 align="center">Hi there, I'm Felicity.</h1>
 
 <p align="left">
   💼 I am currently working at Aptifolio — a no-code portfolio website builder for <strong>developers</strong> who code.
@@ -7,17 +7,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
 
 <p align="left">
-  <!-- Primary CTAs: Demo first (trusted verification), then Themes & Create Portfolio -->
   <a href="https://demo.aptifolio.app">Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://ai-demo.aptifolio.app">Demo: AI portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://aptifolio.com/themes">Explore themes</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://aptifolio.com/#claim-domain">Get started: Build in minutes</a>
+  <a href="https://aptifolio.com/#claim-domain">Build yours in 2 minutes →</a>
 </p>
 
 <br>
 
 #### Monthly Highlights (June💪):
 
-**June can be your month of**: 
+**June can be your month of**:
 - Shipping, not tweaking.
 - Letting your projects speak for you.
 - Being found by recruiters and co-founders ready to work with you immediately.
@@ -33,7 +33,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 1.  **Automated Generation:** Leverage AI to instantly transform your resume, LinkedIn, or GitHub profile into a fully deployed website.
 
-2.  **Professional Themes and Layouts:** Access 90+ high-quality designs, ranging from clean, minimalist layouts to interactive technical interfaces. 
+2.  **Professional Themes and Layouts:** Access 90+ high-quality designs, ranging from clean, minimalist layouts to interactive technical interfaces.
 
 3.  **Zero-Config Deployment:** Go from sign-up to a live, production-ready URL in under two minutes.
 
@@ -44,11 +44,14 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 6.  **Managed Infrastructure:** Enjoy fully managed hosting, free SSL security, and a dedicated subdomain (`yourname.aptifolio.app`).
 
 7.  **Custom Branding:** Seamlessly connect your own custom domain (`yourname.com`) to maintain your personal brand identity.
-8.  **Blogging:** Write, publish, and share thoughtful blogs.
-9.  **Integrations:** Connect GitHub and Spotify to your portfolio.
-10. **Feedback Welcome:** [Share your feedback](https://aptifolio.com/#feedback)
-11. **Zero Lock-in:** Export your portfolio as a production ready codebase, in case you ever need to.
 
+8.  **Blogging:** Write, publish, and share thoughtful blogs.
+
+9.  **Integrations:** Connect GitHub and Spotify to your portfolio.
+
+10. **Zero Lock-in:** Export your portfolio as a production-ready codebase, in case you ever need to.
+
+11. **Feedback Welcome:** [Share your feedback](https://aptifolio.com/#feedback)
 
 <blockquote>
   <strong>Pro Tip:</strong> Interact with the dashboard to unlock its full capabilities.
@@ -56,8 +59,6 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 <br>
 
-
-<!---
 ---
 
 ### A Letter from the Founder
@@ -86,12 +87,11 @@ Today, Aptifolio solves this trap and much more in completely new ways.
 ---
 
 <br>
-!-->
 
 <p align="center">
-  <sub> 
+  <sub>
     Managed by <strong>Felicity</strong>
     <br>
-    Built by <a href="https://github.com/ndunguloren96">@Loren Kamau</a> · <a href="https://aptifolio.com">Aptifolio.com</a> 
+    Built by <a href="https://github.com/ndunguloren96">@Loren Kamau</a> · <a href="https://aptifolio.com">Aptifolio.com</a>
   </sub>
 </p>
