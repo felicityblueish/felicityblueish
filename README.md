@@ -8,7 +8,6 @@
 
 <p align="left">
   <a href="https://demo.aptifolio.app">Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://ai-demo.aptifolio.app">Demo: AI portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://aptifolio.com/themes">Explore themes</a>&nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://aptifolio.com/#claim-domain">Build yours in 2 minutes →</a>
 </p>
