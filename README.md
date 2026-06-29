@@ -70,9 +70,9 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 <blockquote>
 I remember back in 2023, after having a chance to explore programming, I finally made up my mind that I wanted to be a developer. After countless hours learning everything I could get my hands on, the first logical step—or so my research pointed out—was that I needed a portfolio website that stood out.
 
-To spare you the details, I spent the next few months crafting the perfect portfolio. It was only after wasting all those months that it struck me: my portfolio website was over-engineered and entirely useless without real projects to show on it. A simple truth became clear: I should have devoted those valuable hours to building projects worthy of a portfolio.
+To spare you the details, I spent the next few months crafting the perfect portfolio. It was only after wasting all those months that it struck me: my portfolio website was over-engineered and entirely useless without real projects to show on it. A simple truth became clear. I should have devoted those valuable hours to building projects worthy of a portfolio.
 
-That realization is why I built Aptifolio in 2025. I wanted to give developers a way to instantly check the portfolio box so they can immediately focus on writing actual code. Instead of spending months building a personal site from scratch, Aptifolio provides a premium portfolio website in just 2 minutes. You secure your professional presence on day one, and seamlessly update it as you build real projects.
+That realization is why I built Aptifolio in 2025. I wanted to give developers a way to instantly check the portfolio box so they can immediately focus on writing actual code. Instead of spending months building a personal site from scratch, Aptifolio provides a premium on-the-go portfolio in 2 minutes. You secure your professional presence on day one and seamlessly update it as you build real projects throughout your career.
 
 Today, Aptifolio solves this trap and much more in completely new ways.
 </blockquote>
