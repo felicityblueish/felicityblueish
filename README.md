@@ -4,7 +4,8 @@
   💼 I am currently working at Aptifolio — a no-code portfolio website builder for <strong>developers</strong> who code.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=🧠+Code+projects+you+can+showcase.+Let+Aptifolio🌟+build+your+portfolio+in+2+minutes.;❌+Coding+a+portfolio.+✅Building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=❌+Coding+a+portfolio.+✅Building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
 
 <p align="left">
   <a href="https://demo.aptifolio.app">Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
@@ -14,15 +15,15 @@
 
 <br>
 
-#### Monthly Highlights (June💪):
+#### Monthly Highlights:
 
-**June can be your month of**:
+**July☀️ can be your month of**:
 - Shipping, not tweaking.
-- Letting your projects speak for you.
 - Being found by recruiters and co-founders ready to work with you immediately.
+- Letting your projects speak for you.
 - Closing the gap between your skills and what the world can see.
 
-**Ready to launch?** → [aptifolio.com](https://aptifolio.com)
+**Launch** → [aptifolio.com](https://aptifolio.com)
 
 <br>
 
