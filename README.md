@@ -5,7 +5,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=20400&color=00BFFF&vCenter=true&width=900&repeat=false&lines=❌+Coding+a+portfolio.+✅Building+job/client+winning+projects.;Create.+Customize.+Share.)](https://aptifolio.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=00BFFF&vCenter=true&width=900&repeat=false&lines=❌+Coding+a+portfolio.%0A✅+Building+client-winning+projects.;❌+Building+features.%0A✅+Delivering+business+solutions.;❌+Writing+CSS+code.%0A✅+Creating+products+people+love.;Aptifolio)](https://aptifolio.com)
 
 <p align="left">
   <a href="https://demo.aptifolio.app">Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
@@ -47,11 +47,11 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 8.  **Blogging:** Write, publish, and share thoughtful blogs.
 
-9.  **Integrations:** Connect GitHub and Spotify to your portfolio.
+9.  **Integrations and [Analytics](https://aptifolio.com/?demo=analytics):** Connect GitHub to your portfolio and be able to track your vistors.
 
 10. **Zero Lock-in:** Export your portfolio as a production-ready codebase, in case you ever need to.
 
-11. **Feedback Welcome:** [Share your feedback](https://aptifolio.com/#feedback)
+11. **[Feedback](https://aptifolio.com/#feedback) Welcome** 
 
 <blockquote>
   <strong>Pro Tip:</strong> Interact with the dashboard to unlock its full capabilities.
