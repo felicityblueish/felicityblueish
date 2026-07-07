@@ -1,11 +1,17 @@
 <h1 align="center">Hi there, I'm Felicity.</h1>
 
 <p align="left">
-  💼 I am currently working at Aptifolio — a no-code portfolio website builder for <strong>developers</strong> who code.
+I am currently working at Aptifolio — a no-code portfolio website builder for <strong>developers</strong> who code.
 </p>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=3000&color=00BFFF&vCenter=true&width=900&repeat=false&lines=❌+Coding+a+portfolio.%0A✅+Building+client-winning+projects.;❌+Building+features.%0A✅+Delivering+business+solutions.;❌+Writing+CSS+code.%0A✅+Creating+products+people+love.;Aptifolio)](https://aptifolio.com)
+<p align="left">
+  <a href="https://aptifolio.com">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=55&pause=9000&color=00BFFF&center=false&vCenter=true&width=980&height=28&repeat=false&lines=%E2%9D%8C+Coding+a+portfolio.+%E2%9C%85+Building+client-winning+projects.;%E2%9D%8C+Building+features.+%E2%9C%85+Delivering+business+solutions.;%E2%9D%8C+Writing+CSS+code.+%E2%9C%85+Creating+products+people+love.;Aptifolio"
+      alt="Aptifolio positioning statement"
+    />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://demo.aptifolio.app">Demo: See a portfolio</a>&nbsp;&nbsp;•&nbsp;&nbsp;
