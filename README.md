@@ -21,9 +21,7 @@ I am currently working at Aptifolio — a no-code portfolio website builder for 
 
 <br>
 
-#### Monthly Highlights:
-
-**July☀️ can be your month of**:
+#### Monthly Highlights(July☀️)
 - Shipping, not tweaking.
 - Being found by recruiters and co-founders ready to work with you immediately.
 - Letting your projects speak for you.
