@@ -7,7 +7,7 @@ I am currently working at Aptifolio — a no-code portfolio website builder for 
 <p align="left">
   <a href="https://aptifolio.com">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=55&pause=9000&color=00BFFF&center=false&vCenter=true&width=980&height=28&repeat=false&lines=%E2%9D%8C+Coding+a+portfolio.+%E2%9C%85+Building+client-winning+projects.;%E2%9D%8C+Building+features.+%E2%9C%85+Delivering+business+solutions.;%E2%9D%8C+Writing+CSS+code.+%E2%9C%85+Creating+products+people+love.;Aptifolio"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=55&pause=9000&color=00BFFF&center=false&vCenter=true&width=980&height=28&repeat=false&lines=%E2%9D%8C+Coding+a+portfolio.+%E2%9C%85+Building+client-winning+projects.;%E2%9D%8C+Building+features.+%E2%9C%85+Delivering+strategic+insight.;%E2%9D%8C+Writing+CSS+code.+%F0%9F%92%A1Creating+products+that+click.;Aptifolio"
       alt="Aptifolio positioning statement"
     />
   </a>
@@ -96,6 +96,6 @@ Today, Aptifolio solves this trap and much more in completely new ways.
   <sub>
     Managed by <strong>Felicity</strong>
     <br>
-    Built by <a href="https://github.com/ndunguloren96">@Loren Kamau</a> · <a href="https://aptifolio.com">Aptifolio.com</a>
+    Built by <a href="https://github.com/ndunguloren96">Loren Kamau</a> · <a href="ndunguloren96@gmail.com">Contact</a>
   </sub>
 </p>
