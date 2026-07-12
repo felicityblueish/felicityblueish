@@ -55,7 +55,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 
 10. **Zero Lock-in:** Export your portfolio as a production-ready codebase, in case you ever need to.
 
-11. **[Feedback](https://aptifolio.com/#feedback) Welcome** 
+11. **[Feedback](https://aptifolio.com/#feedback) Welcome:** Reliable and friendly support.
 
 <blockquote>
   <strong>Note:</strong> A simple one-time fee is required, which helps us deliver quality services.
