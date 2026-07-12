@@ -96,6 +96,6 @@ Today, Aptifolio solves this trap and much more in completely new ways.
   <sub>
     Managed by <strong>Felicity</strong>
     <br>
-    Built by <a href="https://github.com/ndunguloren96">Loren Kamau</a> · <a href="ndunguloren96@gmail.com">Contact</a>
+    Built by <a href="https://github.com/ndunguloren96">Loren Kamau</a>
   </sub>
 </p>
