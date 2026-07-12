@@ -73,7 +73,7 @@ Aptifolio streamlines the process of building a personal brand, allowing you to 
 <br>
 
 <blockquote>
-I remember back in 2023, after having a chance to explore programming, I finally made up my mind that I wanted to be a developer. After countless hours learning everything I could get my hands on, the first logical step—or so my research pointed out—was that I needed a portfolio website that stood out.
+I remember back in 2023, after having a chance to explore programming, I finally made up my mind that I wanted to be a developer. After countless hours learning everything I could get my hands on, the first logical step—or so my research suggested—was to build a portfolio website that stood out.
 
 To spare you the details, I spent the next few months crafting the perfect portfolio. It was only after wasting all those months that it struck me: my portfolio website was over-engineered and entirely useless without real projects to show on it. A simple truth became clear. I should have devoted those valuable hours to building projects worthy of a portfolio.
 
